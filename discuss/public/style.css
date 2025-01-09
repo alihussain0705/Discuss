@@ -1,0 +1,26 @@
+body {
+  background-color: cadetblue;
+}
+.heading {
+  text-align: center;
+}
+.question-list {
+  border: 1px solid #c9c5c5;
+  padding: 10px;
+  margin: 10px;
+}
+.question-list a {
+  font-size: 18px;
+  text-decoration: none;
+}
+.margin-bottom-15 {
+  margin-bottom: 15px;
+}
+.answer-wrapper {
+  border: 1px solid #c9c5c5;
+  padding: 5px;
+  margin: 5px;
+}
+/* .qcontainer {
+  display: flex;
+} */
